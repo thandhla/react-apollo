@@ -22,7 +22,7 @@
     "clean": ""
   },
   "dependencies": {
-    "@apollo/client": "latest"
+    "@apollo/client": "3.11.8"
   },
   "publishConfig": {
     "access": "public"
